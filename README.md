@@ -43,4 +43,4 @@ PERFORMANCE_FILE = '/path/to/XgAgFJ.json'
 user_id = "your_user_id_here"
 ```
 # Note
-Will add a python file with oops implementation of the notebook file to integrate it with the application seamlessly
+Will add a python file with proper OOPS implementation of the notebook file to integrate it with the application seamlessly
