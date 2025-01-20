@@ -30,7 +30,7 @@ Place your data files in your working directory:
 - `XgAgFJ.json` - Performance data
 
 ### 2. Configuration
-Update these variables in `analysis.ipynb`:
+Update these variables in `Analysis.ipynb`:
 
 ```python
 # filepath: analysis.ipynb
