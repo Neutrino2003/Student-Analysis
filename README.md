@@ -40,4 +40,7 @@ RESPONSE_FILE = '/path/to/rJvd7g.json'
 PERFORMANCE_FILE = '/path/to/XgAgFJ.json'
 
 # Set user ID for analysis
-USER_ID = "your_user_id_here"
+user_id = "your_user_id_here"
+```
+# Note
+Will add a python file with oops implementation of the notebook file to integrate it with the application seamlessly
